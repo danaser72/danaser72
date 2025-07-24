@@ -22,7 +22,7 @@
 
 ---
 
-# 클라이머
+# 클라이밍 뉴비
 - 25.1.8 Start
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_ok_ducky)
